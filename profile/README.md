@@ -8,8 +8,8 @@ At **N1SOL Labs**, we build autonomous software development tools, verifiable ag
 
 ### Core Projects
 
-* **[`waxseal`](https://github.com)** — Tamper-evident, schema-evolution-safe audit hash chain for AI agent frameworks *(Python)*.
-* **[`agents-from-scratch`](https://github.com)** — Deep-dive engineering from Transformer internals to ADLC & Graph Engineering *(JavaScript)*.
+* **[`waxseal`](https://github.com/n1sol-labs/waxseal)** — Tamper-evident, schema-evolution-safe audit hash chain for AI agent frameworks *(Python)*.
+* **[`agents-from-scratch`](https://github.com/n1sol-labs/agents-from-scratch)** — Deep-dive engineering from Transformer internals to ADLC & Graph Engineering *(JavaScript)*.
 
 ---
 
